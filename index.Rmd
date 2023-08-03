@@ -1,0 +1,31 @@
+---
+title: "Welcome to Kevin and Zelos' Adventure!"
+---
+
+
+## Kevin! Look at all this effort
+
+This is our one stop shop to celebrate **THANKSGIVING** together, aren't you excited to repeat Chicago 2022...... in.......
+
+
+```{r, echo = FALSE}
+library(htmltools)
+shiny::actionButton("show_table_button", 
+                    label = "SHOW ME WHERE", 
+                    onclick = "button_handler()")
+
+div(id = "tableContainer", 
+    hidden = "true",
+    h1("5 CHOOSE 2/3: VIETNAM, THAILAND, LAOS, MALAYSIA, INDONESIA"))
+```
+
+
+```{js, echo = FALSE}
+function button_handler() {
+  document.getElementById('tableContainer').hidden = false;
+}
+```
+
+I used a lot of chatgpt to render a variety of descriptions to sell us on each city/idea and started a googlesheet you can access on the top-right tab.
+
+br><left><img src="Images/SEA.png" alt="logo" style="width:45%; border:2px solid"/><br>

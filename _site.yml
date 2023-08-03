@@ -1,0 +1,25 @@
+name: "Yay internet!"
+output_dir: "."
+navbar:
+  title: "Home"
+  left:
+    - text: "Vietnam"
+      href: Vietnam.html
+    - text: "Thailand"
+      href: Thailand.html
+    - text: "Laos"
+      href: Laos.html
+    - text: "Malaysia"
+      href: Malaysia.html
+    - text: "Indonesia"
+      href: Indonesia.html
+  right:
+    - text: "Ideaboard"
+      href: googlesheets.html
+    - icon: fa-envelope fa-lg
+      href: mailto:<illenimart@gmail.com>
+    - icon: fa-github fa-lg
+      href: http://github.com/zztravels/SEA_Fall2023/
+output:
+  html_document:
+    theme: darkly
