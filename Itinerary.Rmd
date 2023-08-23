@@ -1,0 +1,44 @@
+---
+title: "Itinerary"
+output: 
+  html_document: 
+    toc: true
+    toc_float: true
+---
+
+# Schedule
+
+- This a rough draft for now please go to the [ideaboard](./googlesheets.html) if you have ideas or want to add more!
+
+## Thursday, November 9th
+
+- Grab your passports, get on the plane, its time to EMBRACE AN ADVENTURE OF A LIFETIME
+- [Flights from SFO to Hanoi](https://www.google.com/travel/flights/search?tfs=CBwQAhojEgoyMDIzLTExLTA5agcIARIDU0ZPcgwIAhIIL20vMGZuZmZAAUgBcAGCAQsI____________AZgBAg&hl=en&gl=us&curr=USD)
+- [Flights from HNL to Hanoi](https://www.google.com/travel/flights/search?tfs=CBwQAhojEgoyMDIzLTExLTA5agcIARIDSE5McgwIAhIIL20vMGZuZmZAAUgBcAGCAQsI____________AZgBAg&hl=en&gl=us&curr=USD)
+
+## Friday, November 10th
+
+- Check-in to the hotel (we will get in pretty late friday night), looks like the [Intercontinental](https://www.ihg.com/intercontinental/hotels/us/en/hanoi/hanhb/hoteldetail?cm_mmc=GoogleMaps-_-IC-_-VN-_-HANHB) is winning the race for now 
+- Might I add this one looks tempting too: [Peridot Grand](https://peridotgrandhotel.com/)
+- Most bars close by midnight, but its possible we can might want to go to a bar? Depends how sleep on the plane goes
+
+## Saturday, November 11th (borrowed from Day 1 of pre-planning section)
+
+- Morning: Begin your day with a visit to the historical heart of Hanoi, the Hoan Kiem Lake, surrounded by beautiful temples and gardens. Take a leisurely stroll across the iconic red Huc Bridge to Ngoc Son Temple, set on an island in the lake.
+- Afternoon: Explore the Old Quarter's bustling streets, filled with vibrant markets and charming shops. Satisfy your cravings with a delightful Vietnamese lunch at Cha Ca Thang Long, renowned for its mouthwatering fish specialty.
+   - Perhaps a lunchtime cooking class? 
+- Evening & Night: Hanoi Night Market! Only available on the weekends
+
+## Sunday, November 12th - Tuesday, November 14th
+
+- Internet says 2 night, 3 day cruise will allow the most time to see the outskirts and special stuff, a matter of choosing best **LUXURY** cruise line
+
+## Wednesday, November 15th
+
+- Enjoy a half-day or potential full-day if we deem necessary, whatever feels appropriate
+
+## Thursday, November 16th 
+
+- Leave for Bangkok 
+- Flights to leave on the [15th](https://www.google.com/travel/flights/search?tfs=CBwQAhooEgoyMDIzLTExLTE1agwIAhIIL20vMGZuZmZyDAgCEggvbS8wZm4yZ0ABSAFwAYIBCwj___________8BmAEC&hl=en&gl=us&curr=USD)
+- Flights to leave on the [16th](https://www.google.com/travel/flights/search?tfs=CBwQAhooEgoyMDIzLTExLTE2agwIAhIIL20vMGZuZmZyDAgCEggvbS8wZm4yZ0ABSAFwAYIBCwj___________8BmAEC&hl=en&gl=us&curr=USD)

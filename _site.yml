@@ -3,6 +3,10 @@ output_dir: "."
 navbar:
   title: "Home"
   left:
+  - text: Itinerary
+    href: Itinerary.html
+  - text: Pre-planning
+    menu:
     - text: "Vietnam"
       href: Vietnam.html
     - text: "Thailand"
@@ -13,6 +17,7 @@ navbar:
       href: Malaysia.html
     - text: "Indonesia"
       href: Indonesia.html
+    
   right:
     - text: "Ideaboard"
       href: googlesheets.html
