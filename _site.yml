@@ -21,6 +21,8 @@ navbar:
   right:
     - text: "Ideaboard"
       href: googlesheets.html
+    - text: "Homework"
+      href: 
     - icon: fa-envelope fa-lg
       href: mailto:<illenimart@gmail.com>
     - icon: fa-github fa-lg

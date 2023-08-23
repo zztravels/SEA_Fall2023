@@ -1,0 +1,13 @@
+name: SEA_Fall2023
+title: SEA_Fall2023
+username: illenimart
+account: illenimart
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 9658249
+bundleId: 7598429
+url: https://illenimart.shinyapps.io/SEA_Fall2023/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: _site.yml|googlesheets.html|googlesheets.Rmd|Images/halongbay.png|Images/SEA.png|index.html|index.Rmd|Indonesia.html|Indonesia.Rmd|Itinerary.html|Itinerary.Rmd|Laos.html|Laos.Rmd|Malaysia.html|Malaysia.Rmd|README.md|Thailand.html|Thailand.Rmd|Vietnam.html|Vietnam.Rmd|site_libs
