@@ -1,9 +1,9 @@
 ---
-title: "Welcome to Kevin and Zelos' Adventure!"
+title: "Welcome to Kevin and Zelos and Brianna's Adventure!"
 ---
 
 
-## Kevin! Look at all this effort
+## Kevin, Brianna! Look at all this effort
 
 This is our one stop shop to celebrate **THANKSGIVING** together, aren't you excited to repeat Chicago 2022...... in.......
 
@@ -16,7 +16,7 @@ shiny::actionButton("show_table_button",
 
 div(id = "tableContainer", 
     hidden = "true",
-    h1("5 CHOOSE 2/3: VIETNAM, THAILAND, LAOS, MALAYSIA, INDONESIA"))
+    h1("VIETNAM AND THAILAND"))
 ```
 
 
@@ -26,6 +26,8 @@ function button_handler() {
 }
 ```
 
-I used a lot of chatgpt to render a variety of descriptions to sell us on each city/idea and started a googlesheet you can access on the top-right tab.
+Use itinerary tab to preview schedule.
 
-<br><left><img src="Images/halongbay.png" alt="logo" style="width:45%; border:2px solid"/><br>
+Use ideaboard tab to access googlesheet with additional logistic details.
+
+Use homework tab to watch dank food videos.

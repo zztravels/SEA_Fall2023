@@ -5,22 +5,22 @@ navbar:
   left:
   - text: Itinerary
     href: Itinerary.html
-  - text: Pre-planning
-    menu:
-    - text: "Vietnam"
-      href: Vietnam.html
-    - text: "Thailand"
-      href: Thailand.html
-    - text: "Laos"
-      href: Laos.html
-    - text: "Malaysia"
-      href: Malaysia.html
-    - text: "Indonesia"
-      href: Indonesia.html
+  - text: "Ideaboard"
+    href: googlesheets.html
     
   right:
-    - text: "Ideaboard"
-      href: googlesheets.html
+    - text: Pre-planning
+      menu:
+      - text: "Vietnam"
+        href: Vietnam.html
+      - text: "Thailand"
+        href: Thailand.html
+      - text: "Laos"
+        href: Laos.html
+      - text: "Malaysia"
+        href: Malaysia.html
+      - text: "Indonesia"
+        href: Indonesia.html
     - text: "Homework"
       href: homework.html
     - icon: fa-envelope fa-lg
